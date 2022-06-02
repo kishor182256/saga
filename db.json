@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Kishor John",
+      "email": "kishor@cnvc.com",
+      "phone": "6597969789",
+      "address": "NagarPuneJohn",
+      "id": 1
+    },
+    {
+      "name": "Priya",
+      "email": "priya@cnvc.com",
+      "phone": "7895563",
+      "address": "Dhule",
+      "id": 2
+    },
+    {
+      "name": "Sourabh",
+      "email": "saurav@cnvc.com",
+      "phone": "78935266",
+      "address": "Puna",
+      "id": 3
+    }
+  ]
+}
